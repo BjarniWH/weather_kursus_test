@@ -2,9 +2,9 @@
 ## How to clone and start
 
 ```bash 
-git clone https://superusers-kursus@dev.azure.com/superusers-kursus/nodejs/_git/express-app
+git clone https://github.com/BjarniWH/weather_kursus_test.git
 
-cd express-app 
+cd express-app
 
 npm install --silent 
 
