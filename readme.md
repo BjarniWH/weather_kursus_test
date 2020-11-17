@@ -1,4 +1,30 @@
-## How to start using Express
+
+## How to clone and start
+
+```bash 
+git clone https://superusers-kursus@dev.azure.com/superusers-kursus/nodejs/_git/express-app
+
+cd express-app 
+
+npm install --silent 
+
+npm run start
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## How to start using Express from begining
 
 
 ```bash
